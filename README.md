@@ -1,6 +1,8 @@
 # frame-webkit-kiosk
 
-Ubuntu Frame es una shell para implementar aplicaciones gráficas para kioskos interactivos, soluciones de señalización digital, etc. (Ubuntu Frame está soportado durante 10 años)
+[**Ubuntu-Frame**](https://mir-server.io/ubuntu-frame) es una shell para implementar aplicaciones gráficas(soportpara kioskos interactivos, soluciones de señalización digital, etc. 
+
+Nota: Ubuntu-Frame está soportado durante 10 años)
 
 La shell proporciona comunicaciones seguras cliente-servidor utilizando el protocolo ```Wayland``` y las aplicaciones solo pueden comunicarse a través de un socket seguro lo cual reduce los vectores de ataque para el código malicioso.
 
