@@ -4,6 +4,9 @@ Script (```install_frame_webkit_kiosk.sh```) para desplegar la interfaz gráfica
 
 [**Ubuntu-Frame**](https://mir-server.io/ubuntu-frame) es una shell para implementar aplicaciones gráficas para kioskos interactivos, soluciones de señalización digital, etc. La shell proporciona comunicaciones seguras cliente-servidor utilizando el protocolo ```Wayland``` y las aplicaciones solo pueden comunicarse a través de un socket seguro lo cual reduce los vectores de ataque para el código malicioso (Ubuntu-Frame está soportado durante 10 años)
 
+[**wpe-webkit-mir-kiosk**](https://gitlab.com/glancr/wpe-webkit-snap) Fork de [**WPE WebKit**](https://wpewebkit.org/) empaquetado en snap para usar en quioscos a pantalla completa
+
+
 Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona un fichero
 
 ## ISO
