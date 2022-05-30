@@ -22,7 +22,7 @@ Imagen autoarrancable para desplegar un quiosco en modo persistente (formato: IM
 - [**frame-webkit-kiosk v00r15.img**](https://drive.google.com/file/d/1dC2_25N0Mtdn8ElkGLaiev-IjHmpo5KX/view?usp=sharing) (30/05/2022) Imagen vpnrdp_kiosk versión v00r15x (Ubuntu Server 22.04 LTS - Jammy Jellyfish)
 
 Para desplegar la imagen en un pendrive puede utilizar Rufus (https://rufus.ie/). 
-Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido a que en la BIOS está activada la opción **Secure Boot**.
+Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido a que en la BIOS está activada la opción ```**Secure Boot**```.
 
 
 
