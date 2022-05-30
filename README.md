@@ -7,6 +7,19 @@ Script (```install_frame_webkit_kiosk.sh```) para desplegar la interfaz gráfica
 - [**wpe-webkit-mir-kiosk**](https://gitlab.com/glancr/wpe-webkit-snap) es un fork de [**WPE WebKit**](https://wpewebkit.org/) en un paquete snap para usar en quioscos a pantalla completa.
 
 
+
+  <img src="images/frame-webkit-kiosk_01.png" >
+  
+  <img src="images/frame-webkit-kiosk_02.png" >
+  
+  <img src="images/frame-webkit-kiosk_03.png" >
+  
+  <img src="images/frame-webkit-kiosk_04.png" >
+  
+  <img src="images/frame-webkit-kiosk_05.png" >
+
+  <img src="images/frame-webkit-kiosk_06.png" >
+  
 Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona un fichero
 
 ## ISO
