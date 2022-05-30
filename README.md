@@ -20,7 +20,10 @@ Script (```install_frame_webkit_kiosk.sh```) para desplegar la interfaz gráfica
 
   <img src="images/frame-webkit-kiosk_06.png" >
   
-Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona un fichero
+Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona un quiosco configurado en dos formatos
+
+- ISO
+- IMG
 
 ## ISO
 
