@@ -11,6 +11,8 @@ Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona 
 
 ## ISO
 
+Imagen autoarrancable para desplegar un quiosco 
+
 - [**frame-webkit-kiosk v00r15.iso**](https://drive.google.com/file/d/10efDoAuHJtllyPnJ-v4XMEh388YEaMET/view?usp=sharing) (15/10/2021) LiveCD vpnrdp_kiosk versión v02r12x (amd64 64bits) 
 
 ## Imagen persistente 
@@ -19,7 +21,8 @@ Imagen autoarrancable para desplegar un quiosco en modo persistente
 
 - [**frame-webkit-kiosk v00r15.img**](https://drive.google.com/file/d/1LamVRNLVf6TLbZDtFnwinqxieP5Vl9IG/view?usp=sharing) (15/10/2021) Imagen vpnrdp_kiosk versión v02r12x (amd64 64bits) 
 
-Para desplegar la imagen en un pendrive puede utilizar Rufus (https://rufus.ie/). Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido a que en la BIOS está activada la opción **Secure Boot**.
+Para desplegar la imagen en un pendrive puede utilizar Rufus (https://rufus.ie/). 
+Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido a que en la BIOS está activada la opción **Secure Boot**.
 
 
 
