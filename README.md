@@ -18,25 +18,21 @@ Pasos a realizar para desplegar el quiosco en Ubuntu Server LTS
 Después de ejecutar el script de instalación se reiniciará el sistema y podrá configurar el quiosco
 
 <img src="images/frame-webkit-kiosk_01.png" >
-
-# Pantallas
-
-  
-  
-  <img src="images/frame-webkit-kiosk_02.png" >
-  
-  <img src="images/frame-webkit-kiosk_03.png" >
-  
-  <img src="images/frame-webkit-kiosk_04.png" >
-  
-  <img src="images/frame-webkit-kiosk_05.png" >
-
-  <img src="images/frame-webkit-kiosk_06.png" >
   
 Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona un quiosco configurado en dos formatos
 
 - Imagen autoarrancable para desplegar un quiosco en modo persistente desde un **pendrive**
 - Imagen ISO para instalar un servidor Ubuntu Server LTS 22.04 y automatizar la instalación del quiosco
+
+# Pantallas
+
+  <img src="images/frame-webkit-kiosk_02.png" >
+    
+  <img src="images/frame-webkit-kiosk_04.png" >
+  
+  <img src="images/frame-webkit-kiosk_05.png" >
+
+  <img src="images/frame-webkit-kiosk_06.png" >
 
 # ISO
 
