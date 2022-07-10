@@ -26,7 +26,7 @@ Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona 
 
 ## Imagen autoarrancable persistente 
 
-Imagen autoarrancable (formato: IMG) para desplegar el quiosco en modo persistente en Ubuntu Server (22.04 LTS - Jammy Jellyfish)
+Imagen (formato: IMG) para desplegar el quiosco en modo persistente en Ubuntu Server (22.04 LTS - Jammy Jellyfish)
 
 - [**frame-webkit-kiosk v00r34_persistente.img**](https://drive.google.com/file/d/1jdU6VU5s2qzEto4L5-AjsCOtCc9z-Y48/view?usp=sharing) (10/07/2022) 
 
