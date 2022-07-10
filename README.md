@@ -15,9 +15,13 @@ Pasos a realizar para desplegar el quiosco en Ubuntu Server LTS
 | Clonar repositorio | ```git clone https://github.com/fmbrieva/frame-webkit-kiosk.git```|
 | Ejecutar script de instalación | ```frame-webkit-kiosk/install_frame_webkit_kiosk.sh```|
 
+Después de ejecutar el script de instalación se reiniciará el sistema y podrá configurar el quiosco
+
+<img src="images/frame-webkit-kiosk_01.png" >
+
 # Pantallas
 
-  <img src="images/frame-webkit-kiosk_01.png" >
+  
   
   <img src="images/frame-webkit-kiosk_02.png" >
   
