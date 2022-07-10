@@ -34,6 +34,13 @@ Para preparar el pendrive con la imagen puede utilizar la aplicación Rufus (htt
 
 Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido a que en la BIOS está activada la opción **Secure Boot**.
 
+## Imagen para instalar Ubuntu Server LTS con el quiosco
+
+Imagen ISO para instalar un servidor Ubuntu Server LTS 22.04 y automatizar la instalación del quiosco
+
+1. Instalar Ubuntu Server LTS 22.04 (Al finalizar la instalación debe pulsar ENTER para reiniciar el sistema)
+2. En el primer reinicio del sistema, si lo desea, puede realizar ajustes en el sistema.
+3. En el segundo reinicio se realiza la instalación y configuración del quiosco
 
 # Pantallas
 
