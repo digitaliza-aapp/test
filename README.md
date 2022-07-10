@@ -8,7 +8,7 @@ Script para desplegar la interfaz gráfica de un quiosco interactivo  utilizando
 
 # Instalación
 
-Pasos a realizar para desplegar el quiosco en Ubuntu Server LTS
+Pasos a realizar para desplegar el quiosco en ***Ubuntu Server LTS***
 
 | Descripción | Acción |
 | --- | ---- |
