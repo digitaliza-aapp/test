@@ -6,7 +6,13 @@ Script para desplegar la interfaz gráfica de un quiosco interactivo  utilizando
 
 - [**wpe-webkit-mir-kiosk**](https://gitlab.com/glancr/wpe-webkit-snap) es un fork de [**WPE WebKit**](https://wpewebkit.org/) en un paquete snap para usar en quioscos a pantalla completa.
 
+# Instalación
 
+- Clonar repositorio en el servidor Ubuntu Server LTS
+
+```git clone https://github.com/fmbrieva/frame-webkit-kiosk.git```
+
+# Pantallas
 
   <img src="images/frame-webkit-kiosk_01.png" >
   
