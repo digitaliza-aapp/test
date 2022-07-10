@@ -8,14 +8,14 @@ Script para desplegar la interfaz gráfica de un quiosco interactivo  utilizando
 
 # Instalación
 
-- Clonar repositorio en el servidor Ubuntu Server LTS
+Pasos a realizar para desplegar el quiosco en Ubuntu Server LTS
 
 ```git clone https://github.com/fmbrieva/frame-webkit-kiosk.git```
 
 
-| Comando | Programa | Puerto |
-| --- | --- | ---- |
-| `Paso 1` | Clonar repositorio en el servidor Ubuntu Server LTS| ```git clone https://github.com/fmbrieva/frame-webkit-kiosk.git```|
+| Programa | Puerto |
+| --- | ---- |
+| Clonar repositorio | ```git clone https://github.com/fmbrieva/frame-webkit-kiosk.git```|
 
 # Pantallas
 
