@@ -26,9 +26,9 @@ Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona 
 
 ## Imagen autoarrancable persistente 
 
-Imagen autoarrancable para desplegar un quiosco en modo persistente (formato: IMG)
+Imagen persistente autoarrancable (formato: IMG) para desplegar la version v00r34 del quiosco en modo persistente en Ubuntu Server 22.04 LTS - Jammy Jellyfish)
 
-- [**frame-webkit-kiosk v00r34_persistente.img**](https://drive.google.com/file/d/1jdU6VU5s2qzEto4L5-AjsCOtCc9z-Y48/view?usp=sharing) (10/07/2022) Imagen persistente del quiosco versión v00r34x (Ubuntu Server 22.04 LTS - Jammy Jellyfish)
+- [**frame-webkit-kiosk v00r34_persistente.img**](https://drive.google.com/file/d/1jdU6VU5s2qzEto4L5-AjsCOtCc9z-Y48/view?usp=sharing) (10/07/2022) 
 
 Para desplegar la imagen en un pendrive puede utilizar Rufus (https://rufus.ie/). 
 Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido a que en la BIOS está activada la opción **Secure Boot**.
