@@ -39,7 +39,7 @@ Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido 
 Imagen ISO para instalar un servidor Ubuntu Server LTS 22.04 y automatizar la instalación del quiosco
 
 - [**frame-webkit-kiosk-v00r34-server_22.04-amd64.iso**](https://drive.google.com/file/d/1G_a9wdiKLcE7agOzZ3lMZqzDmKWt34qj/view?usp=sharing) (10/07/2022)
-- [**frame-webkit-kiosk-v00r34-server_22.04-amd64.md5**](https://drive.google.com/file/d/1YSXAL1DroPNZzh8S83QQ3niTfj1g5JSt/view?usp=sharing) (10/07/2022)  
+- [**frame-webkit-kiosk-v00r34-server_22.04-amd64.md5**](https://drive.google.com/file/d/1YSXAL1DroPNZzh8S83QQ3niTfj1g5JSt/view?usp=sharing) (10/07/2022) - Código Hash MD5 para verificar imagen ISO 
 
 1. Instalar Ubuntu Server LTS 22.04 (Al finalizar la instalación debe pulsar ENTER para reiniciar el sistema)
 2. En el primer reinicio del sistema, si lo desea, puede realizar ajustes en el sistema.
