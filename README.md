@@ -21,7 +21,7 @@ Después de ejecutar el script de instalación se reiniciará el sistema y podr�
   
 Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona un quiosco configurado en dos formatos
 
-- Imagen autoarrancable para desplegar un quiosco en modo persistente desde un **pendrive**
+- Imagen para desplegar un quiosco en modo persistente desde un **pendrive**
 - Imagen ISO para instalar un servidor Ubuntu Server LTS 22.04 y automatizar la instalación del quiosco
 
 ## Imagen autoarrancable persistente 
