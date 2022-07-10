@@ -24,6 +24,16 @@ Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona 
 - Imagen autoarrancable para desplegar un quiosco en modo persistente desde un **pendrive**
 - Imagen ISO para instalar un servidor Ubuntu Server LTS 22.04 y automatizar la instalación del quiosco
 
+## Imagen autoarrancable persistente 
+
+Imagen autoarrancable para desplegar un quiosco en modo persistente (formato: IMG)
+
+- [**frame-webkit-kiosk v00r34_persistente.img**](https://drive.google.com/file/d/1jdU6VU5s2qzEto4L5-AjsCOtCc9z-Y48/view?usp=sharing) (10/07/2022) Imagen persistente del quiosco versión v00r34x (Ubuntu Server 22.04 LTS - Jammy Jellyfish)
+
+Para desplegar la imagen en un pendrive puede utilizar Rufus (https://rufus.ie/). 
+Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido a que en la BIOS está activada la opción **Secure Boot**.
+
+
 # Pantallas
 
   <img src="images/frame-webkit-kiosk_02.png" >
@@ -33,21 +43,5 @@ Para facilitar el despiegle de quioscos con wpe-webkit-mir-kiosk se proporciona 
   <img src="images/frame-webkit-kiosk_05.png" >
 
   <img src="images/frame-webkit-kiosk_06.png" >
-
-# ISO
-
-Imagen autoarrancable para desplegar un quiosco (formato: ISO)
-
-- [**frame-webkit-kiosk v00r15.iso**](https://drive.google.com/file/d/1CTjsEu1P-FKhqsFZhKAX96KomY4V4O2X/view?usp=sharing) (30/05/2022) Imagen ISO del quiosco versión v00r15x (Ubuntu Server 22.04 LTS - Jammy Jellyfish) 
-
-## Imagen persistente 
-
-Imagen autoarrancable para desplegar un quiosco en modo persistente (formato: IMG)
-
-- [**frame-webkit-kiosk v00r15.img**](https://drive.google.com/file/d/1dC2_25N0Mtdn8ElkGLaiev-IjHmpo5KX/view?usp=sharing) (30/05/2022) Imagen persistente del quiosco versión v00r15x (Ubuntu Server 22.04 LTS - Jammy Jellyfish)
-
-Para desplegar la imagen en un pendrive puede utilizar Rufus (https://rufus.ie/). 
-Si el sistema no arranca en equipos con el ```firmware UEFI``` puede ser debido a que en la BIOS está activada la opción **Secure Boot**.
-
 
 
