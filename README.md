@@ -52,10 +52,10 @@ Pasos para realizar la instalación del quiosco:
 ```mermaid
 graph TD;
     Server(Instalar Ubuntu Server LTS sin entorno gráfico)-->1_Reinicio(Primer reinicio del sistema);
-    1_Reinicio(Primer Reinicio)-->Opcional_1_Reinicio(Opcional: Realizar ajustes en Ubuntu Server);
     1_Reinicio-->2_Reinicio(Segundo Reinicio);
     2_Reinicio-->Wpe-webkit(Comienza instalación automática de wpe-webkit-mir-kiosk);
     2_Reinicio-->Configuracion_Kiosk(Configuración quiosco: URL, ...);
+    1_Reinicio(Primer Reinicio)-->Opcional_1_Reinicio(Opcional: Realizar ajustes en Ubuntu Server);
 ```
 # Pantallas
 
