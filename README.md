@@ -49,6 +49,14 @@ Pasos para realizar la instalación del quiosco:
 | 2 | En el primer reinicio del sistema, si lo desea, puede realizar ajustes en el sistema |
 | 3 | En el segundo reinicio se realiza de forma automática la instalación y configuración del quiosco |
 
+```mermaid
+graph TD;
+    Instalar Ubuntu Server LTS sin entorno gráfico-->Primer Reinicio;
+    Primer Reinicio-->Opcional: Ajustes manuales en la instalación;
+    Primer Reinicio-->Segundo Reinicio;
+    Segundo Reinicio-->Instalación automática quiosco (wpe-webkit-mir-kiosk)
+    Segundo Reinicio-->Configuración quiosco (URL, etc.);
+```
 # Pantallas
 
   <img src="images/frame-webkit-kiosk_02.png" >
