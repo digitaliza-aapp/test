@@ -45,7 +45,7 @@ Pasos para realizar la instalación del quiosco:
 
 | Paso | Descripcion |
 | --- | ---- |
-| 1 | Instalar Ubuntu Server LTS 22.04 (Al finalizar la instalación debe pulsar ENTER para reiniciar el sistema) |
+| 1 | Instalar Server LTS 22.04 (Al finalizar la instalación debe pulsar ENTER para reiniciar el sistema) |
 | 2 | En el primer reinicio del sistema, si lo desea, puede realizar ajustes en el sistema |
 | 3 | En el segundo reinicio se realiza de forma automática la instalación y configuración del quiosco |
 
