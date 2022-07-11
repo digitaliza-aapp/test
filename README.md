@@ -51,9 +51,9 @@ Pasos para realizar la instalación del quiosco:
 
 ```mermaid
 graph TD;
-    Red(Red a inventariar)-->Credenciales(Solicitar credenciales);
-    Credenciales-->Credenciales_Fichero_Vault(1. Credenciales fichero VAULT);
-    Credenciales-->Credenciales_Manualmente(2. Introducir credenciales manualmente);
+    Server(Instalar Ubuntu Server LTS sin entorno gráfico)-->1_Reinicio(Primer reinicio del sistema);
+    1_Reinicio(HOLA)-->Credenciales_Fichero_Vault(1. Credenciales fichero VAULT);
+    
 ```
 # Pantallas
 
